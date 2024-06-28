@@ -47,8 +47,9 @@ SET salary = hourly_pay * 2080;
 --After that above query will be allowed
 
 -- if you want to remove all the rows in the table without removing the table,
---use below query.
+--use any of below query.
 --TRUNCATE TABLE employees;
+--DELETE FROM employees;
 
 --=======================================================================
 --STEP 2:
